@@ -14,4 +14,4 @@ we are using dev tools. So everytime we no need to start the server. if there is
 
 use liverelod to automatically reload the page in browser.
 
-Added travis ci build config
+Added travis ci build config.
